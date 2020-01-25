@@ -1,0 +1,89 @@
+body {
+	background-color: #d1d1d1;	
+}
+
+body h1 {
+	text-align: center;
+}
+
+.wrapper {
+	display: flex;
+	width: 80%;
+	margin: 0 auto;
+	justify-content: space-around;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.image-wrapper {
+	margin: auto;
+}
+
+.image-wrapper .svg {
+	width: 15%;
+	margin: 100px 60px 0;
+}
+
+.image-wrapper p {
+	margin-top: 0;
+}
+
+#strawHat:hover {
+	background-color: black; 
+	cursor: pointer; 
+	transition: background-color 1s ease;
+}
+
+#blackbeard:hover {
+	background-color: black; 
+	cursor: pointer; 
+	transition: background-color 1s ease;
+}
+
+#buggy:hover {
+	background-color: black; 
+	cursor: pointer; 
+	transition: background-color 1s ease;
+}
+
+#don:hover {
+	background-color:#efc631; 
+	cursor:pointer; 
+	transition:background-color 1s ease;
+}
+
+#heart:hover {
+	background-color:#efc631;
+ 	cursor:pointer;
+  	transition:background-color 1s ease;
+}
+
+#kuja:hover {
+	background-color:#d90001;
+	cursor:pointer; 
+	transition:background-color 1s ease;
+}
+
+#redHair:hover {
+	background-color: black; 
+	cursor: pointer; 
+	transition: background-color 1s ease;
+}
+
+#roger:hover {
+	background-color: black; 
+	cursor: pointer; 
+	transition: background-color 1s ease;
+}
+
+#sun:hover {
+	background-color: black; 
+	cursor: pointer; 
+	transition: background-color 1s ease;
+}
+
+#whitebeard:hover {
+	background-color: black; 
+	cursor: pointer; 
+	transition: background-color 1s ease;
+}
