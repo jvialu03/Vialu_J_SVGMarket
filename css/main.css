@@ -1,54 +1,66 @@
 body {
-	background-color: #d1d1d1;	
+	background-color: #d1d1d1;
+	font-family: 'Acme', sans-serif;
 }
 
 body h1 {
 	text-align: center;
+	font-family: 'Acme', sans-serif;
+	font-size: 50px;
 }
 
 .wrapper {
-	display: flex;
 	width: 80%;
 	margin: 0 auto;
-	justify-content: space-around;
-	flex-direction: column;
-	flex-wrap: wrap;
 }
 
 .image-wrapper {
 	margin: auto;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
 }
 
-.image-wrapper .svg {
+.svg {
 	width: 15%;
 	margin: 100px 60px 0;
 }
 
-.image-wrapper p {
-	margin-top: 0;
+img {
+	vertical-align: middle;
+}
+
+.svg h2 {
+	text-align: center;
+}
+
+.selected {
+	transform: scale(1.2);
+	box-shadow: 0 0 8px black;
+	border-radius: 5px;
 }
 
 #strawHat:hover {
-	background-color: black; 
-	cursor: pointer; 
+	background-color: black;
+	cursor: pointer;
 	transition: background-color 1s ease;
 }
 
 #blackbeard:hover {
-	background-color: black; 
-	cursor: pointer; 
+	background-color: black;
+	cursor: pointer;
 	transition: background-color 1s ease;
 }
 
 #buggy:hover {
-	background-color: black; 
-	cursor: pointer; 
+	background-color: black;
+	cursor: pointer;
 	transition: background-color 1s ease;
 }
 
 #don:hover {
-	background-color:#efc631; 
-	cursor:pointer; 
+	background-color:#efc631;
+	cursor:pointer;
 	transition:background-color 1s ease;
 }
 
@@ -60,30 +72,30 @@ body h1 {
 
 #kuja:hover {
 	background-color:#d90001;
-	cursor:pointer; 
+	cursor:pointer;
 	transition:background-color 1s ease;
 }
 
 #redHair:hover {
-	background-color: black; 
-	cursor: pointer; 
+	background-color: black;
+	cursor: pointer;
 	transition: background-color 1s ease;
 }
 
 #roger:hover {
-	background-color: black; 
-	cursor: pointer; 
+	background-color: black;
+	cursor: pointer;
 	transition: background-color 1s ease;
 }
 
 #sun:hover {
-	background-color: black; 
-	cursor: pointer; 
+	background-color: black;
+	cursor: pointer;
 	transition: background-color 1s ease;
 }
 
 #whitebeard:hover {
-	background-color: black; 
-	cursor: pointer; 
+	background-color: black;
+	cursor: pointer;
 	transition: background-color 1s ease;
 }
