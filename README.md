@@ -10,7 +10,7 @@ This is an assignment building 10 SVG icons using Adobe Illustrator and applying
 This is a basic HTML/ CSS/ JavaScript build. Clone this to the location of your choice
 
 ### Prerequisites
-Git, Adobe, and a text editor
+Git and a text editor
 
 ### Authors
 Jairus Vialu  
