@@ -2,7 +2,7 @@
 
 ## Using SVG Artwork and JavaScript Events
 
-This is an assignment building 10 SVG icons using Adobe Illustrator and applying them for the web. Applying hover effects using CSS and logging a message in the console using JavaScript. 
+This is an assignment building 10 SVG icons using Adobe Illustrator and applying them for the web. Implementing hover effects using CSS and logging an onclick message in the console using JavaScript. 
 
 ### Getting Started 
 This is a basic HTML/ CSS/ JavaScript build. Clone this to the location of your choice
