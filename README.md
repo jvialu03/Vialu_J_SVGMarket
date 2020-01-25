@@ -1,6 +1,6 @@
 # One Piece SVG Icons
 
-!(images/one_piece_logo.jpg "One Piece!")
+![One Piece Logo](images/one_piece_logo.jpg)
 
 ## Using SVG Artwork and JavaScript Events
 
